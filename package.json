@@ -47,7 +47,7 @@
     "@wdio/local-runner": "^5.6.0",
     "@wdio/spec-reporter": "^5.6.0",
     "@wdio/sync": "^5.6.0",
-    "appium": "^1.11.1",
+    "appium": "^1.15.0",
     "axios": "^0.18.0",
     "eslint": "^5.14.0",
     "eslint-config-axway": "^4.2.2",
