@@ -68,6 +68,6 @@
     "tslint-jasmine-rules": "^1.5.1",
     "typescript": "^3.3.3",
     "wdio-appium-service": "^0.2.3",
-    "webdriverio": "^5.6.0"
+    "webdriverio": "^5.14.3"
   }
 }
